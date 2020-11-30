@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  text-align: center;  
+}
+
+.column {
+  flex: 25%;              
+}
+
+.boardmembers {
+  margin-right: 12%;
+  margin-left: 12%;
+  background-color: grey;
+}

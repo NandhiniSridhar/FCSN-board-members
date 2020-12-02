@@ -4,11 +4,28 @@
 }
 
 .column {
-  flex: 25%;              
+  flex: 33.33%;              
 }
 
 .boardmembers {
   margin-right: 12%;
   margin-left: 12%;
   background-color: grey;
+}
+
+#name{
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+
+#position{
+  font-family: 'Montserrat';
+  font-size: 15px;
+  color: #3069D7;
+  
+}
+
+#year-major{
+  font-family: 'Montserrat';
+  font-size: 15px;
 }

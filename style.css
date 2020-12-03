@@ -9,14 +9,9 @@ h2{
 }
 
 .column {
-  flex: 33.33%;              
+  flex: 33.33%;          
 }
 
-.boardmembers {
-  margin-right: 12%;
-  margin-left: 12%;
-  background-color: grey;
-}
 
 #name{
   font-family: 'Montserrat';
@@ -42,6 +37,7 @@ h2{
 }
 
 .img{
+  object-fit: cover;
   min-width: 300px;
   min-height: 300px;
   max-width: 300px;
